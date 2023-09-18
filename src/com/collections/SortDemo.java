@@ -35,9 +35,9 @@ public class SortDemo{
     public static void main(String[] args) {
        
         List<Student> students = new ArrayList<>();
-        students.add(new Student("Alice", 20));
-        students.add(new Student("Bob", 22));
-        students.add(new Student("Charlie", 19));
+        students.add(new Student("Sayalee", 20));
+        students.add(new Student("Sanjay", 22));
+        students.add(new Student("Renuka", 19));
 
         
         Collections.sort(students);
